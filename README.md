@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ameri356.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning vs code and github code.
+-  i realy love coding because i am obsesed of game code and website code.
+-  so i wanted to really learn code and i hope my coding works out.
